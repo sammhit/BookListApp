@@ -1,9 +1,9 @@
 # BookListApp
 Android App for searching books using google books API
-Concepts used:
+Concepts used:  
 
-Recycler View based on custom View
-RESTful Api
-JSON parsing
-Intents
+Recycler View based on custom View  
+RESTful Api  
+JSON parsing  
+Intents  
 
